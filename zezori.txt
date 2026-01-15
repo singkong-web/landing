@@ -38,7 +38,7 @@
 <meta property="og:description" content="Jkt8 adalah agen situs slot online gacor terupdate 2026 dengan koleksi game terbaru dan RTP Live real-time yang akurat." />
 <meta property="og:type" content="product" />
 <meta property="og:url" content="https://zezori.com/" />
-<meta property="og:image" content="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg" />
+<meta property="og:image" content="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg" />
 <meta property="product:price:amount" content="5.20" /><meta property="product:price:currency" content="USD" />
 <link rel="shortcut icon" href="https://res.cloudinary.com/dih0tpwae/image/upload/v1766992295/favicon_x0rq78.png" />
 <link rel="icon" href="https://res.cloudinary.com/dih0tpwae/image/upload/v1766992295/favicon_x0rq78.png" type="image/png" sizes="32x32" />
@@ -51,7 +51,7 @@
 <link rel="preconnect" href="//i.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
-<link rel="preload" as="image" imagesrcset="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg" fetchpriority="high" />
+<link rel="preload" as="image" imagesrcset="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg" fetchpriority="high" />
 <link rel="alternate" href="https://zezori.com/" hreflang="en" />
 <link rel="alternate" href="https://www.etsy.com/fi-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-FI" />
 <link rel="alternate" href="https://www.etsy.com/au/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-AU" />
@@ -193,9 +193,9 @@
    "@type": "ImageObject",
    "@context": "https:\/\/schema.org",
    "author": "JKT8",
-   "contentURL": "https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg",
+   "contentURL": "https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg",
    "description": null,
-   "thumbnail": "https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg"
+   "thumbnail": "https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg"
   }],
   "category": "JKT8 < LINK SLOT < SLOT GACOR",
   "brand": {
@@ -1126,11 +1126,11 @@ if (clientloggerIsEnabled) {
                             alt="JKT8"
                             data-carousel-first-image
                             data-perf-group="main-product-image"
-                            src="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg"
-                            srcset="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg"
+                            src="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg"
+                            srcset="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg"
                             fetchpriority="medium"    
                             data-original-image-width="700"
-                            data-src-zoom-image="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg"
+                            data-src-zoom-image="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg"
                             data-index="0"
                         />
                     </li>
@@ -1187,7 +1187,7 @@ if (clientloggerIsEnabled) {
                             data-original-image-width="700"
                             data-original-image-height="700"
                             data-index="0"
-                            data-src-zoom-image="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-16_ua3f0d.jpg"
+                            data-src-zoom-image="https://res.cloudinary.com/dih0tpwae/image/upload/v1768461853/jkt8-14_kp7pon.jpg"
                         />
                     </li>
                   
